@@ -60,6 +60,6 @@ The report can be refreshed **monthly** or **on-demand** depending on HR data av
 
 If you'd like to enhance this dashboard or suggest improvements, feel free to fork the repo and submit a pull request.
 
-##  License
+
 
 
